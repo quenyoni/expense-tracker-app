@@ -1,0 +1,182 @@
+[
+    {
+        "user": "Jack",
+        "expenses": [
+            {
+                "ref": "Black Tax",
+                "value": -450.0,
+                "time": "2024-06-17 19:22:03.618587 "
+            },
+            {
+                "ref": "bills",
+                "value": -32000.0,
+                "time": "2024-06-17T22:27:01.862529 "
+            }
+        ],
+        "occupation": "Accountant",
+        "income": [
+            {
+                "ref": "salary",
+                "value": 450.0,
+                "time": "2024-06-17 19:21:06.017158 "
+            },
+            {
+                "ref": "side gig",
+                "value": 4000.0,
+                "time": "2024-06-17 19:21:30.106230 "
+            },
+            {
+                "ref": "chickens",
+                "value": 3400.0,
+                "time": "2024-06-17T22:26:34.058506 "
+            }
+        ]
+    },
+    {
+        "user": "Qobo",
+        "expenses": [
+            {
+                "ref": "Netflix",
+                "value": -340.0,
+                "time": "2024-06-17 17:52:59.385461 "
+            },
+            {
+                "ref": "Netflix",
+                "value": -45.0,
+                "time": "2024-06-17 17:52:59.385461 "
+            },
+            {
+                "ref": "Food",
+                "value": -320.0,
+                "time": "2024-06-17 18:35:37.638451 "
+            },
+            {
+                "ref": "Toiletries",
+                "value": -54.0,
+                "time": "2024-06-17 18:36:19.648729 "
+            },
+            {
+                "ref": "DSTV",
+                "value": -34.0,
+                "time": "2024-06-17T20:17:19.702950 "
+            },
+            {
+                "ref": "food",
+                "value": -45.0,
+                "time": "2024-06-19T03:28:10.284078 "
+            }
+        ],
+        "occupation": null,
+        "income": [
+            {
+                "ref": "salary",
+                "value": 323.0,
+                "time": "2024-06-17 17:50:42.867992 "
+            },
+            {
+                "ref": "side gig",
+                "value": 43.0,
+                "time": "2021-06-17 17:52:44.490895 "
+            },
+            {
+                "ref": " go fund me",
+                "value": 5.0,
+                "time": "2019-06-17 19:27:58.057342 "
+            },
+            {
+                "ref": "salary",
+                "value": 340.0,
+                "time": "2024-06-17T20:00:19.660963 "
+            },
+            {
+                "ref": "salary",
+                "value": 433.0,
+                "time": "2022-06-17T20:04:09.288674 "
+            },
+            {
+                "ref": "red",
+                "value": 320.0,
+                "time": "2023-06-17T20:06:24.341008 "
+            },
+            {
+                "ref": "sea",
+                "value": 23.0,
+                "time": "2024-06-17T23:22:37.986855 "
+            },
+            {
+                "ref": "Gil",
+                "value": 568.0,
+                "time": "2024-06-19T01:39:44.105445 "
+            },
+            {
+                "ref": "Garden Maintenance",
+                "value": 450.0,
+                "time": "2024-06-19T02:17:04.333783 "
+            }
+        ]
+    },
+    {
+        "user": "Rodri",
+        "expenses": [],
+        "occupation": null,
+        "income": []
+    },
+    {
+        "user": "Viny Jr",
+        "expenses": [
+            {
+                "ref": "Gucci Bag",
+                "value": -4500.0,
+                "time": "2024-06-17 19:54:57.900139 "
+            },
+            {
+                "ref": "partying",
+                "value": -3400.0,
+                "time": "2024-06-17 19:55:36.496822 "
+            }
+        ],
+        "occupation": null,
+        "income": [
+            {
+                "ref": "weekly wages",
+                "value": 250000.0,
+                "time": "2024-06-17 19:54:17.239243 "
+            }
+        ]
+    },
+    {
+        "user": "Drake",
+        "expenses": [],
+        "occupation": null,
+        "income": []
+    },
+    {
+        "user": "Floyd",
+        "expenses": [],
+        "occupation": "Engineer",
+        "income": []
+    },
+    {
+        "user": "pep",
+        "expenses": [],
+        "occupation": "Manager",
+        "income": [
+            {
+                "ref": "Wages",
+                "value": 4300.0,
+                "time": "2024-06-19T02:18:02.736396 "
+            },
+            {
+                "ref": "Wages",
+                "value": 23000.0,
+                "time": "2024-06-19T02:18:20.540399 "
+            }
+        ]
+    },
+    {
+        "user": "rock",
+        "expenses": [],
+        "occupation": "Wrestler",
+        "income": []
+    }
+]
